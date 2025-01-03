@@ -1,5 +1,3 @@
-# Minishell Project
-
 ## Overview
 The **Minishell** project involves building a simple shell in C that emulates some of the core functionalities of Bash. 
 This project covers the implementation of built-in commands, input/output redirections, piping between processes, and handling heredoc syntax. 
